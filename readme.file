@@ -1,0 +1,11 @@
+Tech Stack - frontended- React 
+UI-Material UI
+Backend- express js , nodejs, MongoDB, jwt, morgon, multer
+
+
+Start the App
+ first you Clone the code
+ then Npm Install both backend and frontended
+ start the server  using (npm run server )
+ start the frontended (npm run start)
+
